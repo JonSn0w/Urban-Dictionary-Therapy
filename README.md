@@ -20,7 +20,12 @@
   <!-- <img src="https://cloud.githubusercontent.com/assets/16360374/25802132/cfcd58de-33a5-11e7-8cf8-81f18f6f7af8.png" width="800"/> -->
 </p>
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftterb%2FUrban-Dictionary-Therapy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftterb%2FUrban-Dictionary-Therapy?ref=badge_large)
+
 ## Description:  
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftterb%2FUrban-Dictionary-Therapy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftterb%2FUrban-Dictionary-Therapy?ref=badge_shield)
+
 **Urban Dictionary Therapy** is a simple command-line rehabilitation program for coping with long frustrating days of programming. Utilizing this program and the information generously donated by the online community, you too can return to your work as a more successful, functioning member of society. More importantly, Urban Dictionary Therapy provides you with the much needed liberation without the distraction that inevitably comes with opening up a new tab in your browser. Though, this is only one of the many wonderful ways this package can benefit your life.  
   
 Maybe you're looking for a substitute for the obligatory ```fortune``` package in your command-line greeting or just simply looking for a way to expand your vocabulary?  
@@ -55,5 +60,4 @@ $ UDTherapy [-options]
 <br>
 
 ## Contributing  
-If you'd like to contribute to the project, feel free to suggest a [feature request](./../../issues/new?template=feature_request.md) and/or submit a [pull request](./../../pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc).  
-  
+If you'd like to contribute to the project, feel free to suggest a [feature request](./../../issues/new?template=feature_request.md) and/or submit a [pull request](./../../pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc).
